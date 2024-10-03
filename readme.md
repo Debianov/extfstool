@@ -6,4 +6,4 @@ kernel.org/index.php/Ext4_Disk_Layout#Directory_Entries)* pages when implementin
 The main function is `Unpack` in `main.go`. 
 
 The library layouts:
-![layouts](layouts.svg)
+![layouts](./layouts.svg)
