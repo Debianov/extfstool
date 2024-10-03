@@ -1,0 +1,8 @@
+github.com/ImSingee/mmap v1.3.0 h1:PLsAwRcF6GcvPmtiC7FmxUU/CEOSsC9yXV8iYqXrWYY=
+github.com/ImSingee/mmap v1.3.0/go.mod h1:qn5lftfQMMwniif5OIlN7G9hL47MlMuDt/02J3NBtnc=
+github.com/ImSingee/tt v1.0.4 h1:avDmypiAGmTEaRVJ1hweLzggyKRVfuUfLsGrebTrAyQ=
+github.com/ImSingee/tt v1.0.4/go.mod h1:7O7v+cIBruYWGFObw85DDjH0gNLquen1cJqMR3GOgxw=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0 h1:xrCZDmdtoloIiooiA9q0OQb9r8HejIHYoHGhGCe1pGg=
+golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
